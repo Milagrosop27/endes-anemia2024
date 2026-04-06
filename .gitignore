@@ -1,0 +1,65 @@
+# Ignorar archivos de datos (demasiado grandes para Git)
+data/raw/*.csv
+data/processed/*.csv
+
+# Reportes generados
+data/processed/*.txt
+
+# Guías locales (no subir a GitHub)
+GUIA_*.md
+GITHUB_SETUP_GUIDE.md
+
+# Entorno Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Notebooks Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter
+.jupyter/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+python_install.log
+
