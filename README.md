@@ -9,9 +9,10 @@
 ##  Estructura
 
 ```
-src/        8 scripts de producción (01-06 preprocesamiento, 09-10 modelos)
-notebooks/  5 notebooks de análisis (00 maestro, 07-10 visualización)
-  doc/      Metodología
+ANALISIS_ENDES2024    Notebook Principal
+src/                  8 scripts de producción (01-06 preprocesamiento, 09-10 modelos)
+notebooks/            4 notebooks de análisis (07-10 visualización)
+  doc/                Metodología
 ```
 ---
 ---
