@@ -19,7 +19,7 @@ notebooks/            4 notebooks de análisis (07-10 visualización)
 
 ##  Ejecutar
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ochoaperezmilagros/endes-anemia2024/blob/main/notebooks/00_ANALISIS_MAESTRO.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1F_9YwD0IZX86R-y-Zdg8Q35IAjc4JuDX?usp=sharing)
 
 O localmente:
 ```bash
