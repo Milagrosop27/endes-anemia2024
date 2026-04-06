@@ -5,10 +5,6 @@ data/processed/*.csv
 # Reportes generados
 data/processed/*.txt
 
-# Guías locales (no subir a GitHub)
-GUIA_*.md
-GITHUB_SETUP_GUIDE.md
-
 # Entorno Python
 .venv/
 __pycache__/
